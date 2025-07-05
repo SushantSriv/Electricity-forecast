@@ -76,7 +76,7 @@
 │   - Choropleth (Altair + GeoJSON)                                │
 │   - Download, KPIs, feature importances                          │
 └───────────────────────────────────────────────────────────────────┘
-```
+
 ## Directory Layout
 <details>
 <summary>Click to expand</summary>
@@ -102,7 +102,6 @@ Electricity-forecast/
 ├── requirements.txt
 └── README.md
 
-```
 
 
 ## Workflow in Detail
