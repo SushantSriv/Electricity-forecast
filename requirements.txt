@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+streamlit-autorefresh
+geopandas
+altair
+vega_datasets
+fiona
+requests
+frostapi
