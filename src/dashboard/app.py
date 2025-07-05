@@ -11,8 +11,6 @@ from sklearn.exceptions import DataConversionWarning
 from datetime import timedelta
 from streamlit_autorefresh import st_autorefresh
 import datetime
-import geopandas as gpd
-import altair as alt
 import json
 
 
