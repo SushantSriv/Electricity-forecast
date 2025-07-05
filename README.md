@@ -5,7 +5,7 @@
 ## Live Demo
 
 Prøv dashboardet her:  
-[⚡ Electricity Price Forecast Dashboard](https://electricity-forecast-smd8evr3hbgrvf3n2tdsau.streamlit.app) 
+[⚡ Electricity Price Forecast Dashboard]((https://electricity-forecast-sushant.streamlit.app/)) 
 
 <img src="visuals/demo.gif" alt="Demo" width="500" />
 ---
