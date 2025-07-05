@@ -2,6 +2,12 @@
 
 > **A reproducible end-to-end pipeline for hourly electricity-price prediction in Norway (NO1–NO5) – from raw API calls, through feature engineering & model tuning, to a live Streamlit dashboard.**
 
+## Live Demo
+
+Prøv dashboardet her:  
+[⚡ Electricity Price Forecast Dashboard](https://electricity-forecast-smd8evr3hbgrvf3n2tdsau.streamlit.app) 
+
+<img src="visuals/demo.gif" alt="Demo" width="500" />
 ---
 
 ## 📑 Table of Contents
