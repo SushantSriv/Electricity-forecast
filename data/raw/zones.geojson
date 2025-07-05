@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "zone": "NO1" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[10.0,59.4],[11.2,59.4],[11.2,60.2],[10.0,60.2],[10.0,59.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "zone": "NO2" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[9.0,60.0],[11.5,60.0],[11.5,63.0],[9.0,63.0],[9.0,60.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "zone": "NO3" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[4.0,58.0],[7.5,58.0],[7.5,60.5],[4.0,60.5],[4.0,58.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "zone": "NO4" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[7.5,61.5],[10.5,61.5],[10.5,64.0],[7.5,64.0],[7.5,61.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "zone": "NO5" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[11.0,64.0],[19.0,64.0],[19.0,71.0],[11.0,71.0],[11.0,64.0]]]
+      }
+    }
+  ]
+}
